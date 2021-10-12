@@ -1,7 +1,5 @@
 # Atlas
 
-Atlas provides the ability to easily run a secure distributed Thanos deployment for Prometheus.
-
 ## Overview
 
 Atlas at it's core is a small set of kubernetes operators that uses services and secrets resources as the underlying source of truth to populate a customized Envoy Aggreggated Service Discovery server which the Envoy proxies connect to and obtain their configurations to create the secure distributed envoy network that Thanos then traverses for connectivity.
