@@ -1,5 +1,7 @@
 # Atlas
 
+**COMING SOON** Trying for the week of October 11th. Finishing up some last minute tasks to ensure proper documentation and functionality when not in a private repo.
+
 ## Overview
 
 Atlas at it's core is a small set of kubernetes operators that uses services and secrets resources as the underlying source of truth to populate a customized Envoy Aggreggated Service Discovery server which the Envoy proxies connect to and obtain their configurations to create the secure distributed envoy network that Thanos then traverses for connectivity.
