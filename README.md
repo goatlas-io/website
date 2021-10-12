@@ -1,6 +1,8 @@
 # Atlas
 
-**COMING SOON** Trying for the week of October 11th. Finishing up some last minute tasks to ensure proper documentation and functionality when not in a private repo.
+**COMING SOON!**
+
+Trying for the week of October 11th. Finishing up some last minute tasks to ensure proper documentation and functionality when not in a private repo.
 
 ## Overview
 
